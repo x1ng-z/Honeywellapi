@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="honeywell">
+    <output-path>$PROJECT_DIR$/out/artifacts/honeywell</output-path>
+    <root id="archive" name="honeywell.jar">
+      <element id="module-output" name="Honeywellapi" />
+      <element id="library" level="project" name="lib" />
+    </root>
+  </artifact>
+</component>

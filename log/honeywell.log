@@ -1,0 +1,97 @@
+2020-03-10 16:14:32,263 INFO  [HoneyWellServe.main(26)] - device value is: 52685
+2020-03-10 16:14:32,268 INFO  [HoneyWellServe.main(26)] - device value is: 52685
+2020-03-10 16:14:41,280 INFO  [HoneyWellServe.main(35)] - param value is: -1
+2020-03-10 16:14:41,281 INFO  [HoneyWellServe.main(35)] - param value is: -1
+2020-03-10 16:14:41,282 INFO  [HoneyWellServe.main(38)] - all value: error
+2020-03-10 17:05:50,338 INFO  [HoneyWellServe.main(26)] - device value is: -1
+2020-03-10 17:05:50,367 INFO  [HoneyWellServe.main(26)] - device value is: -1
+2020-03-10 17:06:10,369 INFO  [HoneyWellServe.main(35)] - param value is: -1
+2020-03-10 17:06:10,369 INFO  [HoneyWellServe.main(35)] - param value is: -1
+2020-03-10 17:08:26,656 INFO  [HoneyWellServe.main(26)] - device value is: -1
+2020-03-10 17:08:26,676 INFO  [HoneyWellServe.main(26)] - device value is: -1
+2020-03-10 17:08:46,679 INFO  [HoneyWellServe.main(35)] - param value is: -1
+2020-03-10 17:08:46,679 INFO  [HoneyWellServe.main(35)] - param value is: -1
+2020-03-10 17:09:25,977 INFO  [HoneyWellServe.main(26)] - device value is: 52685
+2020-03-10 17:09:25,980 INFO  [HoneyWellServe.main(26)] - device value is: 52685
+2020-03-10 17:09:25,981 INFO  [HoneyWellServe.main(35)] - param value is: 52685
+2020-03-10 17:09:25,981 INFO  [HoneyWellServe.main(35)] - param value is: 52685
+2020-03-10 17:09:48,202 INFO  [HoneyWellServe.main(26)] - device value is: 52685
+2020-03-10 17:09:48,218 INFO  [HoneyWellServe.main(26)] - device value is: 52685
+2020-03-10 17:09:48,219 INFO  [HoneyWellServe.main(35)] - param value is: 52685
+2020-03-10 17:09:48,219 INFO  [HoneyWellServe.main(35)] - param value is: 52685
+2020-03-10 17:10:21,405 INFO  [HoneyWellServe.main(26)] - device value is: 52685
+2020-03-10 17:10:21,408 INFO  [HoneyWellServe.main(26)] - device value is: 52685
+2020-03-10 17:10:21,409 INFO  [HoneyWellServe.main(35)] - param value is: 52685
+2020-03-10 17:10:21,409 INFO  [HoneyWellServe.main(35)] - param value is: 52685
+2020-03-10 17:11:52,047 INFO  [HoneyWellServe.main(26)] - device value is: 52685
+2020-03-10 17:11:52,050 INFO  [HoneyWellServe.main(26)] - device value is: 52685
+2020-03-10 17:11:52,051 INFO  [HoneyWellServe.main(35)] - param value is: 52685
+2020-03-10 17:11:52,051 INFO  [HoneyWellServe.main(35)] - param value is: 52685
+2020-03-10 17:15:58,815 INFO  [HoneyWellServe.main(26)] - device value is: 52685
+2020-03-10 17:15:58,818 INFO  [HoneyWellServe.main(26)] - device value is: 52685
+2020-03-10 17:15:58,819 INFO  [HoneyWellServe.main(35)] - param value is: 52685
+2020-03-10 17:15:58,819 INFO  [HoneyWellServe.main(35)] - param value is: 52685
+2020-03-10 17:15:58,819 INFO  [HoneyWellServe.main(38)] - all value: 2
+2020-03-10 17:18:01,150 INFO  [HoneyWellServe.main(26)] - device value is: 52685
+2020-03-10 17:18:01,153 INFO  [HoneyWellServe.main(26)] - device value is: 52685
+2020-03-10 17:18:01,153 INFO  [HoneyWellServe.main(35)] - param value is: 52685
+2020-03-10 17:18:01,158 INFO  [HoneyWellServe.main(35)] - param value is: 52685
+2020-03-10 17:18:01,158 INFO  [HoneyWellServe.main(38)] - all value: 52685
+2020-03-10 17:19:31,354 INFO  [HoneyWellServe.main(26)] - device value is: 52685
+2020-03-10 17:19:31,358 INFO  [HoneyWellServe.main(26)] - device value is: 52685
+2020-03-10 17:19:31,361 INFO  [HoneyWellServe.main(35)] - param value is: 52685
+2020-03-10 17:19:31,362 INFO  [HoneyWellServe.main(35)] - param value is: 52685
+2020-03-10 18:01:07,199 INFO  [HoneyWellServe.main(26)] - device value is: 52685
+2020-03-10 18:01:07,203 INFO  [HoneyWellServe.main(26)] - device value is: 52685
+2020-03-10 18:01:07,204 INFO  [HoneyWellServe.main(35)] - param value is: 52685
+2020-03-10 18:01:07,204 INFO  [HoneyWellServe.main(35)] - param value is: 52685
+2020-03-10 18:01:07,207 INFO  [HoneyWellServe.main(38)] - all value: 7
+2020-03-10 18:04:01,695 INFO  [HoneyWellServe.main(26)] - device value is: 52685
+2020-03-10 18:04:01,700 INFO  [HoneyWellServe.main(26)] - device value is: 52685
+2020-03-10 18:04:01,701 INFO  [HoneyWellServe.main(35)] - param value is: 52685
+2020-03-10 18:04:01,703 INFO  [HoneyWellServe.main(35)] - param value is: 52685
+2020-03-10 18:04:01,704 INFO  [HoneyWellServe.main(38)] - all value: {
+2020-03-10 18:05:55,029 INFO  [HoneyWellServe.main(26)] - device value is: 52685
+2020-03-10 18:05:55,033 INFO  [HoneyWellServe.main(26)] - device value is: 52685
+2020-03-10 18:05:55,034 INFO  [HoneyWellServe.main(35)] - param value is: 52685
+2020-03-10 18:05:55,034 INFO  [HoneyWellServe.main(35)] - param value is: 52685
+2020-03-10 18:05:55,037 INFO  [HoneyWellServe.main(38)] - all value: }
+2020-03-10 20:29:39,172 INFO  [test.main(22)] - device value is: 52685
+2020-03-10 20:29:39,211 INFO  [test.main(22)] - device value is: 52685
+2020-03-10 20:29:39,212 INFO  [test.main(31)] - param value is: 52685
+2020-03-10 20:29:39,213 INFO  [test.main(31)] - param value is: 52685
+2020-03-10 20:29:39,219 INFO  [test.main(34)] - all value: }
+2020-03-10 20:46:03,744 INFO  [test.main(29)] - device value is: 52685
+2020-03-10 20:46:03,763 INFO  [test.main(29)] - device value is: 52685
+2020-03-10 20:46:03,765 INFO  [test.main(38)] - param value is: 52685
+2020-03-10 20:46:03,765 INFO  [test.main(38)] - param value is: 52685
+2020-03-10 20:46:03,766 INFO  [test.main(41)] - all value: }
+2020-03-10 20:46:28,970 INFO  [test.main(29)] - device value is: 52685
+2020-03-10 20:46:28,998 INFO  [test.main(29)] - device value is: 52685
+2020-03-10 20:46:28,999 INFO  [test.main(38)] - param value is: 52685
+2020-03-10 20:46:28,999 INFO  [test.main(38)] - param value is: 52685
+2020-03-10 20:46:29,000 INFO  [test.main(41)] - all value: }
+2020-03-10 21:11:04,736 INFO  [test.main(34)] - device value is: 52685
+2020-03-10 21:11:04,750 INFO  [test.main(34)] - device value is: 52685
+2020-03-10 21:11:04,751 INFO  [test.main(43)] - param value is: 52685
+2020-03-10 21:11:04,751 INFO  [test.main(43)] - param value is: 52685
+2020-03-10 21:11:04,752 INFO  [test.main(46)] - all value: }
+2020-03-10 21:47:38,597 INFO  [HoneyWellServe.initialTag(50)] - q06g_pljs,f_tt11
+2020-03-10 21:47:38,602 INFO  [HoneyWellServe.initialTag(51)] - zsd.pv,daca.pv
+2020-03-10 21:48:40,550 INFO  [HoneyWellServe.initialTag(50)] - q06g_pljs,f_tt11
+2020-03-10 21:48:40,575 INFO  [HoneyWellServe.initialTag(51)] - zsd.pv,daca.pv
+2020-03-10 21:49:02,021 INFO  [HoneyWellServe.initialTag(50)] - q06g_pljs,f_tt11
+2020-03-10 21:49:02,024 INFO  [HoneyWellServe.initialTag(51)] - zsd.pv,daca.pv
+2020-03-10 21:49:11,484 INFO  [HoneyWellServe.initialTag(50)] - q06g_pljs,f_tt11
+2020-03-10 21:49:11,506 INFO  [HoneyWellServe.initialTag(51)] - zsd.pv,daca.pv
+2020-03-10 21:50:54,728 INFO  [HoneyWellServe.initialTag(50)] - q06g_pljs,f_tt11
+2020-03-10 21:50:54,731 INFO  [HoneyWellServe.initialTag(51)] - zsd.pv,daca.pv
+2020-03-10 21:51:07,850 INFO  [HoneyWellServe.initialTag(50)] - q06g_pljs,f_tt11
+2020-03-10 21:51:07,865 INFO  [HoneyWellServe.initialTag(51)] - zsd.pv,daca.pv
+2020-03-10 22:06:46,276 INFO  [HoneyWellServe.initialTag(50)] - q06g_pljs,f_tt11
+2020-03-10 22:06:46,291 INFO  [HoneyWellServe.initialTag(51)] - zsd.pv,daca.pv
+2020-03-10 22:07:51,922 INFO  [HoneyWellServe.initialTag(50)] - q06g_pljs,f_tt11
+2020-03-10 22:07:51,926 INFO  [HoneyWellServe.initialTag(51)] - zsd.pv,daca.pv
+2020-03-10 22:08:13,214 INFO  [HoneyWellServe.initialTag(50)] - q06g_pljs,f_tt11
+2020-03-10 22:08:13,219 INFO  [HoneyWellServe.initialTag(51)] - zsd.pv,daca.pv
+2020-03-10 22:08:13,234 INFO  [HoneyWellServe.getAllTagValue(69)] - }
